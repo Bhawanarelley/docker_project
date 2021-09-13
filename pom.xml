@@ -6,10 +6,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>docker_1st</artifactId>
+    <artifactId>docker_2nd</artifactId>
     <packaging>ep-application</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <name>docker_1st</name>
+    <name>docker_2nd</name>
     <description>My Application</description>
 
     <!-- common definitions for this version of Streaming -->
@@ -17,6 +17,7 @@
         <groupId>com.tibco.ep.sb.parent</groupId>
         <artifactId>ep-application-docker</artifactId>
         <version>10.6.1</version>
+        <relativePath>C:\Users\bhawa\.m2\com.tibco.ep.sb.rt</relativePath>
     </parent>
 
     <properties>
